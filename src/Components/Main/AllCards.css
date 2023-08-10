@@ -1,0 +1,32 @@
+.textofglav{
+    color: black;
+    display:flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+.img1{
+    width: 40px;
+    height: 40px;
+    margin-top:50px ;
+    margin-left: 10px;
+}
+.you{
+    display: flex;
+    align-items: flex-end
+}
+.glav{
+    float: left;
+    margin-right: 100px;
+}
+.your{
+    margin-right: 100px;
+    justify-content: center;
+}
+.group{
+    margin-top: 25px;
+}
+.text123{
+    margin-top: 25px;
+}
+
+ 
